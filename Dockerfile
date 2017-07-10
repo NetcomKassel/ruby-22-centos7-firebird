@@ -8,4 +8,4 @@ yum repolist && \
 yum install -y firebird-devel && \
 yum clean all -y
 
-USER default
+USER 1001
